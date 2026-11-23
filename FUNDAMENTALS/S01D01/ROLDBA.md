@@ -41,3 +41,43 @@
 
 ### Performance Tuning
 - Analizar consultas SQL
+- Identificar Consultas lentas
+- Revisar indices
+- Analizar planes de Ejecución
+- Detectar Bloqueos
+- Revisar consumo de CPU y memoria
+- Optimizar configuraciones 
+- Analizar Concurrencia
+#### CONCEPTOS
+ - Explain and explane analize
+ - indices B-tree
+ - Query Optimization
+ - Executions Plans
+ - Database Monitoring
+
+### Monitoring and Maintenance
+- Monitorear conexiones
+- Revisar errores
+- Controlar espacio de almacenamiento
+- supervisar CPU y almacenamiento
+- Identificar consultas problematicas
+- Revisar logs
+- Aplicar mantenimiento preventivo
+
+### High availability wand disaster recovery
+- replication
+- primary and stand by servers
+- failover
+- clustering
+- Load Balancing
+- disaster recovery
+
+
+### Database Design
+- modelado de datos
+- Normalizacion
+- relaciones entre tablas
+- claves primarias y foraneas
+- restricciones (constraints)
+- indices
+- particionamiento de tablas
